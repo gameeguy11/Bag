@@ -1,0 +1,13 @@
+{
+  "id": "Bag",
+  "name": "Bag",
+  "author": "gamerguy11",
+  "description": "Adds the ability to pickup full carryalls.",
+  "game": "subnautica",
+  "version": "1.0.0",
+  "source": "github",
+  "github": {
+    "repo": "gamerguy11/Bag",
+    "branch": "main"
+  }
+}

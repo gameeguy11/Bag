@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "changelog": "Initial release of Pickupable Storage Enhanced.",
+  "files": [
+    {
+      "path": "Bag",
+      "type": "folder"
+    }
+  ]
+}
